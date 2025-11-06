@@ -1,0 +1,1 @@
+import React from 'react'; export default function Pousadas(){ return (<div className='container'><h2 style={{color:'#4CC9F0'}}>Lista de Pousadas</h2><div className='card'>Implementar listagem detalhada</div></div>) }

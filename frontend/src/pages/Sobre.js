@@ -1,0 +1,1 @@
+import React from 'react'; export default function Sobre(){ return (<div className='container'><h2>Sobre E-Stay</h2><p>E-Stay — Hospedagem inteligente powered by LinkUp. Base operacional: Natal/RN</p></div>) }
