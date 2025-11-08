@@ -2,7 +2,7 @@
 
 **Hospedagem inteligente com tecnologia LinkUp — conforto, conectividade e gestão simplificada.**
 
-Base operacional: Vila de Ponta Negra, Natal/RN  
+Base operacional: Brasil  
 Desenvolvido por: Akiles Simião
 
 ## Visão geral
